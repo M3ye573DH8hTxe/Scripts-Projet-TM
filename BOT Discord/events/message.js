@@ -1,3 +1,4 @@
+// File not by Tristan Baud - It's a lib
 module.exports = (bot, message) => {
     // Ignore all bots
 
